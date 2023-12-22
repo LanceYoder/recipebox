@@ -1,15 +1,17 @@
-Chicken Alfredo, 3, chicken
-Mashed Potatoes, 8, potato
-Corn on the Cob, 5, corn
-Salmon and Potatoes, 4, fish, potato
-Cheeseburgers, 9, beef
-Spaghetti and Meatballs, 7, beef
-Pizza, 10, pork
-Broccoli Soup, 5, vegetable
-Biscuits and Gravy, 8, beef
-Chicken Tikki Masala, 5, chicken
-Baked potatoes, 4, potato
-Chicken Sandwiches, 8, chicken
-Chicken Noodle Soup,8.5, chicken,noodles
-Kung Pao Chicken,10,chicken
-Mapo Ragu,9,pork
+Chicken Alfredo, 3, Chicken
+Mashed Potatoes, 8, Potato
+Corn on the Cob, 5, Corn
+Salmon and Potatoes, 4, Fish, Potato
+Cheeseburgers, 9, Beef
+Spaghetti and Meatballs, 7, Beef
+Pizza, 10, Pork
+Broccoli Soup, 5, Vegetable
+Biscuits and Gravy, 8, Beef
+Chicken Tikki Masala, 5, Chicken
+Baked potatoes, 4, Potato
+Chicken Sandwiches, 8, Chicken
+Chicken Noodle Soup,8.5, Chicken,Noodles
+Kung Pao Chicken,10,Chicken
+Mapo Ragu,9,Pork
+Creamed Chicken Sandwiches,9,Chicken
+toast,3,Bread
