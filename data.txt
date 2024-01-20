@@ -1,17 +1,19 @@
-Chicken Alfredo, Fifteen minutes, 3,,, Chicken
-Mashed Potatoes, Thirty minutes,8,,, Potato
-Corn on the Cob, Fifteen minutes, 5,,, Corn
-Salmon and Potatoes, Thirty minutes,4,,, Fish, Potato
-Cheeseburgers, Fifteen minutes, 9,,, Beef
-Spaghetti and Meatballs,Hour plus, 7,,, Beef
-Pizza, Hour plus,10,,, Pork
-Broccoli Soup, Hour plus,5,,, Vegetable
-Biscuits and Gravy, Hour plus,8,,, Beef
-Chicken Tikki Masala, Fifteen minutes, 5,,, Chicken
-Baked potatoes, Hour,4,,, Potato
-Chicken Sandwiches,Hour, 8,,, Chicken
-Chicken Noodle Soup,Fifteen minutes,8.5,,, Chicken,Noodles
-Kung Pao Chicken,Hour,10,,,Chicken
-Mapo Ragu,Thirty minutes,9,,,Pork
-Creamed Chicken Sandwiches,Fifteen minutes,9,,,Chicken
-toast,Thirty minutes,3,,,Bread
+Chicken Alfredo` Fifteen minutes` 3``` Chicken
+Mashed Potatoes` Thirty minutes`8``` Potato
+Corn on the Cob` Fifteen minutes` 5``` Corn
+Salmon and Potatoes` Thirty minutes`4``` Fish,Potato
+Cheeseburgers` Fifteen minutes` 9``` Beef
+Spaghetti and Meatballs`Hour plus` 7``` Beef
+Pizza` Hour plus`10``` Pork
+Broccoli Soup` Hour plus`5``` Vegetable
+Biscuits and Gravy` Hour plus`8``` Beef
+Chicken Tikki Masala` Fifteen minutes` 5``` Chicken
+Baked potatoes` Hour`4``` Potato
+Chicken Sandwiches`Hour` 8``` Chicken
+Chicken Noodle Soup`Fifteen minutes`8.5``` Chicken,Noodles
+Kung Pao Chicken`Hour`10```Chicken
+Mapo Ragu`Thirty minutes`9```Pork
+Creamed Chicken Sandwiches`Fifteen minutes`9```Chicken
+toast`Thirty minutes`3```Bread
+Sweet and Sour Chicken`Fifteen minutes`8```Chicken,Rice
+Meat and Spinach Loaf`Hour plus`6.5``New York Times Cookbook pg. 544`Beef,Pork,Spinach
